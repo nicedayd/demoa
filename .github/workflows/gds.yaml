@@ -17,7 +17,7 @@ jobs:
     # ubuntu
     runs-on: ubuntu-latest
     steps:
-    # need the repo checked out
+    # need the repo checked out1
     - name: checkout repo
       uses: actions/checkout@v3
       with:
